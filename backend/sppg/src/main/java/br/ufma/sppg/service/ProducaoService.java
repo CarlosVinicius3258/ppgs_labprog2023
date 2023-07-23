@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import br.ufma.sppg.dto.DocenteProducaoDTO;
+import br.ufma.sppg.Dto.DocenteProducaoDTO;
 import br.ufma.sppg.model.Docente;
 import br.ufma.sppg.model.Orientacao;
 import br.ufma.sppg.model.Producao;

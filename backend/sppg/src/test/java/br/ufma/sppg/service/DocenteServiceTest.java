@@ -13,7 +13,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
 
-import br.ufma.sppg.dto.Indice;
+import br.ufma.sppg.Dto.Indice;
 import br.ufma.sppg.model.*;
 import br.ufma.sppg.repo.*;
 import br.ufma.sppg.service.exceptions.ServicoRuntimeException;

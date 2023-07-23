@@ -7,7 +7,7 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import br.ufma.sppg.dto.Indice;
+import br.ufma.sppg.Dto.Indice;
 import br.ufma.sppg.model.*;
 import br.ufma.sppg.repo.DocenteRepository;
 import br.ufma.sppg.service.exceptions.ServicoRuntimeException;

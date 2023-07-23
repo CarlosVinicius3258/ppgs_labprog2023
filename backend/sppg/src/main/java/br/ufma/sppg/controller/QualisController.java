@@ -15,10 +15,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.ufma.sppg.dto.Indice;
-import br.ufma.sppg.dto.IndiceQualisDTO;
-import br.ufma.sppg.dto.QualisStatsDTO;
-import br.ufma.sppg.dto.QualisSummaryDTO;
+import br.ufma.sppg.Dto.Indice;
+import br.ufma.sppg.Dto.IndiceQualisDTO;
+import br.ufma.sppg.Dto.QualisStatsDTO;
+import br.ufma.sppg.Dto.QualisSummaryDTO;
 import br.ufma.sppg.model.Producao;
 import br.ufma.sppg.service.ProgramaService;
 import br.ufma.sppg.service.exceptions.ServicoRuntimeException;
